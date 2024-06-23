@@ -28,6 +28,7 @@ ag.brianlee.fun
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+aqua.is.my.waifu.cz
 asia.dnscepat.id
 au.rslvr.eu
 axaxa.fun
@@ -176,7 +177,6 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
@@ -190,6 +190,7 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tk31z.com
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 us-central.adhole.org

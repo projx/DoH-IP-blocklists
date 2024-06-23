@@ -90,7 +90,6 @@ antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
-aqua.is.my.waifu.cz
 arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
@@ -1063,7 +1062,6 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
