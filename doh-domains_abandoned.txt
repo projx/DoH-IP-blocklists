@@ -15,6 +15,7 @@ adguard.ambiya.net
 adguard.bitteeinbyte.de
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.lista.my.id
@@ -41,6 +42,7 @@ bld.sys-adm.in
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
@@ -153,7 +155,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -179,8 +180,8 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz
