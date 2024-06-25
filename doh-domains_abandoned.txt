@@ -99,6 +99,7 @@ dns.repressoh.it
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
+dns.warma.me
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
@@ -152,6 +153,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -178,6 +180,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
+punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 securedns.vendorvista.xyz

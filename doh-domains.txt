@@ -486,7 +486,6 @@ dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wargan.io
-dns.warma.me
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
@@ -781,7 +780,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
