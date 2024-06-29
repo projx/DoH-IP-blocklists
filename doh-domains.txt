@@ -318,7 +318,6 @@ dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
-dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
 dns.interhub.cc
@@ -628,6 +627,7 @@ doh.maskab.com
 doh.max.net.id
 doh.micronets.in
 doh.mmmalia.com
+doh.morizt.id
 doh.mullvad.net
 doh.neowutran.ovh
 doh.nic.lv
