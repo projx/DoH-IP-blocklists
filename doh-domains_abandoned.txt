@@ -88,7 +88,6 @@ dns.invisv.com
 dns.itdept.pro
 dns.jucker.engineering
 dns.labnekotest.site
-dns.lgprk.com
 dns.lightmaster.pw
 dns.lsho.top
 dns.mipauns.com
@@ -188,7 +187,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
