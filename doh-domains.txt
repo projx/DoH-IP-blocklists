@@ -266,6 +266,7 @@ dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
+dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -281,7 +282,6 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flwagners.com
 dns.flymc.cc
-dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
