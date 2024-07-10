@@ -81,7 +81,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.freyja.pw
 dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
