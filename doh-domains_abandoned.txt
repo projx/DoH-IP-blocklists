@@ -102,6 +102,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.ronc.ru
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -180,11 +181,13 @@ jp.ray0512.win
 jp.rslvr.eu
 kswro.web.id
 lion.yazilimatolye.com
+msr177.com
 neatdns.ustclug.org
 nebula.tru.io
 nl.rslvr.eu
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
+ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 odoh-target-noads-se.alekberg.net
