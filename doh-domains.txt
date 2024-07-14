@@ -30,6 +30,7 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
 adguard-kartoffel.zernico.de
@@ -87,6 +88,7 @@ antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
+aqua.is.my.waifu.cz
 arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
