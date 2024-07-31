@@ -119,7 +119,6 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
-dns64.cloudflare-dns.com
 dnsenc.com
 dnses.alekberg.net
 dnsvps.familiamv.ml
