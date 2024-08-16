@@ -128,6 +128,7 @@ dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.bt.com
 doh.chi.ahadns.net
 doh.dnslify.com
 doh.doh.my.id
