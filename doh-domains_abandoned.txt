@@ -6,7 +6,6 @@ a.passcloud.xyz
 a.safe.ns.dnslify.com
 aattwwss.duckdns.org
 ad-dns.lista.my.id
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -46,7 +45,6 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -98,6 +96,8 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
 dns.mandre.dev
+dns.mathewakhil.online
+dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
@@ -137,7 +137,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.nala.ru
@@ -189,8 +188,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -207,7 +204,6 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -223,7 +219,6 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
