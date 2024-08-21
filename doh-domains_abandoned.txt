@@ -96,7 +96,6 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com

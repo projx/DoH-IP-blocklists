@@ -351,6 +351,7 @@ dns.lista.my.id
 dns.lobbygod.com
 dns.lvolland.fr
 dns.maolaohei.xyz
+dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
