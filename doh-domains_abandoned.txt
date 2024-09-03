@@ -128,6 +128,10 @@ dns2.linzefeng.top
 dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
@@ -176,6 +180,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
