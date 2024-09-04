@@ -408,7 +408,6 @@ dns.ronc.ru
 dns.rootlab.top
 dns.rotunneling.net
 dns.rubyfish.cn
-dns.sarak.as
 dns.sarilouis.com
 dns.sb
 dns.scapetical.com
@@ -464,7 +463,6 @@ dns.uplenk.com
 dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
-dns.vinokurov.tk
 dns.vishalk.com
 dns.vmath.my.id
 dns.wahr.top
@@ -520,12 +518,16 @@ dnscache.e-utp.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -781,7 +783,6 @@ jp-nrt.doh.sb
 jp.68360612.xyz
 jp.tiar.app
 jp.tiarap.org
-jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
@@ -1080,8 +1081,6 @@ wyx.cloud
 xenergy.cc
 xray.krnl.eu
 yarp.lefolgoc.net
-ychen.cf
-ychen.gq
 your-dns.run
 yovbak.com
 yul01.dnscry.pt

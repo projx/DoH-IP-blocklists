@@ -111,9 +111,11 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.sarak.as
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
+dns.vinokurov.tk
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
@@ -127,10 +129,6 @@ dns2.linzefeng.top
 dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
@@ -195,6 +193,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jp1.f7b6h9.tk
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -240,4 +239,6 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 xorbiadns.com
 ycg01.dnscry.pt
+ychen.cf
 ychen.ga
+ychen.gq
