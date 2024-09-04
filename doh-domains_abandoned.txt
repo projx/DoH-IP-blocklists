@@ -6,6 +6,7 @@ a.passcloud.xyz
 a.safe.ns.dnslify.com
 aattwwss.duckdns.org
 ad-dns.lista.my.id
+adblock.borjalopez.eu
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -98,6 +99,7 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -115,7 +117,6 @@ dns.sarak.as
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
-dns.vinokurov.tk
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
@@ -148,7 +149,6 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.southam.family
@@ -177,7 +177,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -193,7 +192,6 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jp1.f7b6h9.tk
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -227,6 +225,7 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
@@ -239,6 +238,4 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 xorbiadns.com
 ycg01.dnscry.pt
-ychen.cf
 ychen.ga
-ychen.gq
