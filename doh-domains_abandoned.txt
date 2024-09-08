@@ -26,6 +26,7 @@ adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguardh.ga
+ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
