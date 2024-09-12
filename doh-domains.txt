@@ -284,6 +284,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -750,6 +751,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -782,6 +784,7 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaitain.restena.lu
 keithchung.hopto.org
@@ -796,6 +799,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -886,6 +890,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1018,6 +1023,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
@@ -1070,7 +1076,6 @@ www.muxyuji.ru
 www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
-wyx.cloud
 xenergy.cc
 xray.krnl.eu
 yarp.lefolgoc.net
