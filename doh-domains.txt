@@ -608,7 +608,6 @@ doh.maskab.com
 doh.max.net.id
 doh.micronets.in
 doh.mmmalia.com
-doh.morizt.id
 doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
@@ -1076,6 +1075,7 @@ www.muxyuji.ru
 www.pukanuragan.ru
 www.unasw.eu
 www.zburger.top
+wyx.cloud
 xenergy.cc
 xray.krnl.eu
 yarp.lefolgoc.net

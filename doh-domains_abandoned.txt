@@ -113,7 +113,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.sev.monster
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -146,6 +145,7 @@ doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kutu.my.id
 doh.linuxsec.org
+doh.morizt.id
 doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
@@ -160,7 +160,6 @@ doh.velyn.my.id
 doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
-dohtrial.att.net
 dos.bytetel.net
 dot.au.ahadns.net
 dot.chi.ahadns.net
@@ -240,7 +239,6 @@ us.rslvr.eu
 vanced.sytes.net
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
-wyx.cloud
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
