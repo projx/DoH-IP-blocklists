@@ -472,7 +472,6 @@ dns.warma.me
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv

@@ -120,6 +120,7 @@ dns.tryk.app
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
+dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
