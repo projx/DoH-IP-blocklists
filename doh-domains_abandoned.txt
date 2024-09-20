@@ -130,6 +130,7 @@ dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.bt.com
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
@@ -232,7 +233,6 @@ us.rslvr.eu
 vanced.sytes.net
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
-www.pukanuragan.ru
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
