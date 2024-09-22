@@ -394,6 +394,7 @@ dns.pccoach.nl
 dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
+dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.privado.ovh
@@ -751,6 +752,7 @@ hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
 hkg01.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de

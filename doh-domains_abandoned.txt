@@ -103,7 +103,6 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -178,7 +177,6 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
-hkname.freecdn.one
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
