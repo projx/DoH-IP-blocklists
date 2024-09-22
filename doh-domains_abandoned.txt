@@ -112,6 +112,7 @@ dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
 dns.tryk.app
+dns.wakgood.net
 dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
@@ -177,6 +178,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+hkname.freecdn.one
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
