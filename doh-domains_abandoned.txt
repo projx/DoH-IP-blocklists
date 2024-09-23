@@ -102,7 +102,6 @@ dns.moog.sh
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
-dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -190,6 +189,7 @@ jit.ddns.net
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
