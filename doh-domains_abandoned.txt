@@ -84,7 +84,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -105,6 +104,7 @@ dns.moog.sh
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
+dns.opnsource.com.au
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
