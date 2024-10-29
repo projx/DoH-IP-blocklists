@@ -116,6 +116,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rootlab.top
+dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
