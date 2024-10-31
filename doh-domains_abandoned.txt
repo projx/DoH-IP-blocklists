@@ -213,6 +213,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
+lon-dns.bitdefender.net
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org

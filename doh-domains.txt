@@ -794,7 +794,6 @@ lindung.pp.ua
 lion.dns.qwer.pw
 llk01.dnscry.pt
 local.sufly.top
-lon-dns.bitdefender.net
 lon01.dnscry.pt
 lux1.nixnet.xyz
 lv1.nixnet.xyz
