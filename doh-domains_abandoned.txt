@@ -47,7 +47,6 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -91,7 +90,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -104,7 +102,6 @@ dns.jucker.engineering
 dns.kugoapps.com
 dns.labnekotest.site
 dns.lightmaster.pw
-dns.lsho.top
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
