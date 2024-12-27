@@ -112,6 +112,7 @@ dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
+dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
