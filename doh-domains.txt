@@ -583,6 +583,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
@@ -744,7 +745,6 @@ i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
-id.terra.my.id
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
