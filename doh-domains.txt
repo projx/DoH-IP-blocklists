@@ -311,7 +311,6 @@ dns.indybanipal.com
 dns.interhub.cc
 dns.internal.hosmatic.com
 dns.islandnet.com
-dns.janl.eu
 dns.jinwoo.dev
 dns.joaofidelix.com.br
 dns.joey01245.nl
