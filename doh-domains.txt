@@ -963,6 +963,7 @@ sitdns.com
 sky.rethinkdns.com
 slc01.dnscry.pt
 sof01.dnscry.pt
+spacedns.org
 sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
