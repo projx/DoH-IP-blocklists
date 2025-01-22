@@ -47,7 +47,6 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -119,6 +118,7 @@ dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
+dns.rootlab.top
 dns.siry.de
 dns.surfshark.com
 dns.truong.fi
@@ -220,7 +220,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id

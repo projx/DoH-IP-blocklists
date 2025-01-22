@@ -150,6 +150,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -398,7 +399,6 @@ dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.ronc.ru
-dns.rootlab.top
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -760,6 +760,7 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 keithchung.hopto.org
 kids.5ososea.com
