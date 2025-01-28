@@ -66,6 +66,7 @@ dns.233py.com.cdn.cloudflare.net
 dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
+dns.aerro.in
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
