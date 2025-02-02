@@ -173,6 +173,7 @@ doh.ny.ahadns.net
 doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
+doh.powerdns.org
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
@@ -237,6 +238,7 @@ nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
+ns1.dotls.org
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 nue2.moderateinfra.net
