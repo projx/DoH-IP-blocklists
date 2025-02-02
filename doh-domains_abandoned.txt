@@ -49,6 +49,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -173,7 +174,6 @@ doh.ny.ahadns.net
 doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
-doh.powerdns.org
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
