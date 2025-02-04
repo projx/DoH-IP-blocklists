@@ -238,7 +238,6 @@ ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns1.dotls.org
-ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 nue2.moderateinfra.net
@@ -279,6 +278,7 @@ vm.mytm.cc
 vpn.technicule.info
 vtcuong.site
 wdns.233py.com
+www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 xorbiadns.com
