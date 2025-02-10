@@ -902,6 +902,7 @@ res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
 resolver-eu.haringstad.com
+resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
 resolver.unstoppable.io
