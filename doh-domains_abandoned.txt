@@ -226,7 +226,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -279,7 +278,6 @@ us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
 vpn.technicule.info
-vtcuong.site
 wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru

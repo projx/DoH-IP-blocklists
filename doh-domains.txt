@@ -768,6 +768,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1015,6 +1016,7 @@ vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vpsus3.pzhg.me
+vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
