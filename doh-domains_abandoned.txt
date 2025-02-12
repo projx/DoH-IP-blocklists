@@ -121,6 +121,7 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.pnh.my.id
 dns.post-factum.tk
+dns.privado.ovh
 dns.privilab.net
 dns.pumplex.com
 dns.siry.de
