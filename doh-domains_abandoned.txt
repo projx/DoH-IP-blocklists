@@ -94,7 +94,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -282,6 +281,7 @@ us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
 vpn.technicule.info
+vtcuong.site
 wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
