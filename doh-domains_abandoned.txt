@@ -157,6 +157,7 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
 doh.abmb.win
+doh.apad.pro
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
