@@ -108,7 +108,6 @@ dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
 dns.kugoapps.com
-dns.labnekotest.site
 dns.lightmaster.pw
 dns.lvolland.fr
 dns.mandre.dev
