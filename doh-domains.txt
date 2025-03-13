@@ -254,7 +254,6 @@ dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
-dns.edison42.dev
 dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
@@ -571,7 +570,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
