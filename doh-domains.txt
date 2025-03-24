@@ -30,7 +30,6 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
-adg.rueiliu.space
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.abd.ong
@@ -68,7 +67,6 @@ adl.adfilter.net
 adult-filter-dns.cleanbrowsing.org
 ag.ff0x.ca
 ag.marschi.de
-ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.fltn.us
 agh.printk.info
