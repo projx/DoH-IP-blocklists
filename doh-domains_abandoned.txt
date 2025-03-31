@@ -110,6 +110,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
+dns.kugoapps.com
 dns.lightmaster.pw
 dns.lvolland.fr
 dns.mandre.dev
@@ -134,6 +135,7 @@ dns.truong.fi
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
+dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
@@ -286,6 +288,7 @@ us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
 vtcuong.site
+wantaquddin.com
 wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
