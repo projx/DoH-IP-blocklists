@@ -120,7 +120,6 @@ dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
 dns.pesaventofilippo.com
-dns.pnh.my.id
 dns.post-factum.tk
 dns.privado.ovh
 dns.privilab.net
