@@ -743,6 +743,7 @@ ipoac.nl
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+jcdns.fun
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -773,6 +774,7 @@ lax02.dnscry.pt
 lelux.fi
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 llk01.dnscry.pt
 lon01.dnscry.pt
 lux1.nixnet.xyz
@@ -1012,6 +1014,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vpn.technicule.info
 vpsus3.pzhg.me
+vtcuong.site
 waw01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
