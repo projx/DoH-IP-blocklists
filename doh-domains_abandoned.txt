@@ -129,6 +129,7 @@ dns.siry.de
 dns.surfshark.com
 dns.theres.one
 dns.truong.fi
+dns.tryk.app
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
