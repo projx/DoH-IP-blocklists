@@ -212,10 +212,8 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 gclouddns.com
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
-hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
