@@ -432,7 +432,6 @@ dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
 dns.tls-data.de
-dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -703,6 +702,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
