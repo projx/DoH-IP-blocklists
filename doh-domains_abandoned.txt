@@ -46,7 +46,6 @@ cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -135,7 +134,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.siry.de
 dns.theres.one
-dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
