@@ -241,7 +241,6 @@ la.ray0512.win
 local.sufly.top
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
-nat64.tuxis.nl
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
