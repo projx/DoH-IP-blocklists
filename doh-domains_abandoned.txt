@@ -111,6 +111,7 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
+dns.keke125.com
 dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
@@ -224,6 +225,7 @@ groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
+httpdns-sc.aliyuncs.com
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
