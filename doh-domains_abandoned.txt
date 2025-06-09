@@ -136,6 +136,7 @@ dns.pumplex.com
 dns.rafn.is
 dns.siry.de
 dns.theres.one
+dns.tracker.ink
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
