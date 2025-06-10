@@ -254,6 +254,7 @@ dns.dnswarden.com
 dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
+dns.edgy.network
 dns.elemental.software
 dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
@@ -340,7 +341,6 @@ dns.milkpie.one
 dns.mo0on15.com
 dns.molinero.dev
 dns.moonssif.com
-dns.moulticast.net
 dns.msxnet.ru
 dns.mullvad.net
 dns.murgi.de
@@ -427,7 +427,6 @@ dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
 dns.tls-data.de
-dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
