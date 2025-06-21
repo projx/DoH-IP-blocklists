@@ -135,6 +135,7 @@ dns.privado.ovh
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
+dns.simplylinux.ch
 dns.siry.de
 dns.theres.one
 dns.truong.fi
