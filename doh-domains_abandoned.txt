@@ -162,7 +162,6 @@ dns8.org
 dnsenc.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
@@ -223,7 +222,6 @@ everovpn.co
 example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
-gclouddns.com
 groupy.ga
 hk.rslvr.eu
 hkname.freecdn.one
@@ -282,7 +280,6 @@ snoke.meganerd.nl
 surt.ml
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
