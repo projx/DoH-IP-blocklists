@@ -17,6 +17,7 @@ adguard-server.cf
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
+adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ihatemy.live
@@ -59,6 +60,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
+dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
@@ -89,7 +91,6 @@ dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
-dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
@@ -284,7 +285,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
-tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
