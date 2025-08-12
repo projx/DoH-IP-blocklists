@@ -213,6 +213,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 ecs-doh.dnswarden.com
+edgy-dns.com
 edns.233py.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
