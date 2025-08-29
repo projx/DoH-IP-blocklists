@@ -280,7 +280,6 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanahira.dev
 dns.hanmey.de
-dns.henek.ovh
 dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
@@ -692,6 +691,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
+gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
