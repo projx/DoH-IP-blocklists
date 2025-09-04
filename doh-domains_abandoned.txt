@@ -138,6 +138,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
+dns.rootlab.top
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -193,7 +194,6 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.southam.family
@@ -247,7 +247,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
