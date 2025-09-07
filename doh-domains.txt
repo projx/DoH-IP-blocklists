@@ -230,6 +230,7 @@ dns.colorfreedom.org
 dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
