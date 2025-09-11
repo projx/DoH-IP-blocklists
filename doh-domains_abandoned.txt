@@ -53,7 +53,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -178,7 +177,6 @@ doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
-doh.funil.de
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
@@ -241,7 +239,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
