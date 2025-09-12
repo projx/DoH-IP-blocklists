@@ -1,4 +1,5 @@
 1.xhr0no.my
+3dns.eu
 a-bld.sys-adm.in
 a.zpn.me
 aattwwss.duckdns.org
@@ -53,6 +54,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -143,6 +145,7 @@ dns.swin.pro
 dns.theres.one
 dns.truong.fi
 dns.tryk.app
+dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
