@@ -125,6 +125,7 @@ dns.moog.sh
 dns.moulticast.net
 dns.ndo.dev
 dns.nixnet.xyz
+dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -138,7 +139,6 @@ dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top
 dns.siry.de
-dns.skrep.eu
 dns.stvsk.ml
 dns.swin.pro
 dns.theres.one
@@ -241,7 +241,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
