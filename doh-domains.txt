@@ -33,6 +33,7 @@ adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
 adguard.avdkishore.dev
+adguard.bitteeinbyte.de
 adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dekonix.ru
