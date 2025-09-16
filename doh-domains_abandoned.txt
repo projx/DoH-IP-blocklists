@@ -126,6 +126,7 @@ dns.moog.sh
 dns.moulticast.net
 dns.ndo.dev
 dns.nixnet.xyz
+dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -226,7 +227,6 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
