@@ -339,7 +339,6 @@ dns.milkpie.one
 dns.mo0on15.com
 dns.molinero.dev
 dns.moonssif.com
-dns.msxnet.ru
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
@@ -694,7 +693,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
