@@ -53,7 +53,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -117,7 +116,6 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
-dns.lgprk.com
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
