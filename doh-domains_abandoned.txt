@@ -10,7 +10,6 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -106,6 +105,7 @@ dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.henek.ovh
 dns.hugo0.moe
+dns.iamninja.ru
 dns.ian.rocks
 dns.indust.me
 dns.indybanipal.com
@@ -117,6 +117,7 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.lgprk.com
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
