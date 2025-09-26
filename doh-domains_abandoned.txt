@@ -179,7 +179,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
-doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -210,13 +209,11 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
-dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
-dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
