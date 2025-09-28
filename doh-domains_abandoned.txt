@@ -195,7 +195,6 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 doh.post-factum.tk
-doh.powerdns.org
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
