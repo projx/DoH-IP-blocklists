@@ -124,6 +124,7 @@ dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
 dns.ndo.dev
+dns.nhtsky.com
 dns.nixnet.xyz
 dns.norvig.dk
 dns.onp.cloud
@@ -178,6 +179,7 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
+doh.eastau.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -197,6 +199,7 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.westus.pi-dns.com
 doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
@@ -225,6 +228,7 @@ example.doh.blockerdns.com
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
