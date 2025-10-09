@@ -139,7 +139,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
-dns.repressoh.it
 dns.rootlab.top
 dns.seiffert.me
 dns.siry.de
@@ -277,7 +276,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
