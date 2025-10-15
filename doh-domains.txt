@@ -552,7 +552,6 @@ doh.luigi.nexific.it
 doh.lv
 doh.maskab.com
 doh.max.net.id
-doh.micronets.in
 doh.mmmalia.com
 doh.mullvad.net
 doh.nic.lv
