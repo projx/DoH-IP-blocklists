@@ -287,7 +287,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-opennic1.eth-services.de
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
