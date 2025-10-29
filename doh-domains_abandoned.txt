@@ -145,7 +145,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
-dns.repressoh.it
 dns.rootlab.top
 dns.seiffert.me
 dns.siry.de
