@@ -98,6 +98,7 @@ dns.edison42.dev
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
+dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
@@ -196,6 +197,7 @@ doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
+doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
