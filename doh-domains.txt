@@ -46,6 +46,7 @@ adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
 adguard.oms-ctr.ru
@@ -288,7 +289,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.interhub.cc
 dns.internal.hosmatic.com
 dns.islandnet.com
