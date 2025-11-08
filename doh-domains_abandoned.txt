@@ -44,10 +44,10 @@ berd.moe
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
-cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cleanbrowsing.org
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
@@ -202,6 +202,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -311,7 +312,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
