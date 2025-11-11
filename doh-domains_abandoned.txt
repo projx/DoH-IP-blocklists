@@ -265,7 +265,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -276,6 +275,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 minilla.store
 n0.eu
+nanopi.cybergroove.net
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
