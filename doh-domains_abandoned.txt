@@ -250,6 +250,7 @@ eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
+free.shecan.ir
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
