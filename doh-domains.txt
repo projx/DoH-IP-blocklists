@@ -382,6 +382,7 @@ dns.schlagheck.berlin
 dns.scuola.org
 dns.sellan.fr
 dns.sev.monster
+dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
