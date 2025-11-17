@@ -147,7 +147,6 @@ dns.rafn.is
 dns.rootlab.top
 dns.scapetical.com
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -202,7 +201,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -252,7 +250,6 @@ eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
-free.shecan.ir
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
@@ -300,7 +297,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
