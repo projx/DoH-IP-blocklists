@@ -68,7 +68,6 @@ dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.52306.org
 dns.5ososea.com
-dns.7sec.com.br
 dns.aaflalo.me
 dns.adrianlam.com
 dns.aerro.in
@@ -254,6 +253,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -298,6 +298,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -312,6 +313,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
