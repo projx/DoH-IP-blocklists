@@ -143,6 +143,7 @@ dns.pragmasec.nl
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
+dns.repressoh.it
 dns.rootlab.top
 dns.scapetical.com
 dns.seiffert.me
@@ -309,6 +310,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+tuandns.duckdns.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
