@@ -42,7 +42,6 @@ b-ii.com
 bcandrade.ml
 berd.moe
 bld.sys-adm.in
-blocker.thethorsens.org
 buc-m2.illmods.com
 callies-online.site
 canadianshield.cira.ca
@@ -247,6 +246,7 @@ eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
+free.shecan.ir
 groupy.ga
 gustamadh.dynv6.net
 hk.rslvr.eu
@@ -294,6 +294,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
