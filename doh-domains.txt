@@ -105,6 +105,7 @@ blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
+blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
 bom01.dnscry.pt
@@ -124,6 +125,7 @@ clean.dnsforge.de
 cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
+cloud.samutz.com
 cloud.tezoi.com
 cloudflare-dns.com
 cloudns.bosco.ovh
