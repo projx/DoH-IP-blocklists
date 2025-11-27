@@ -53,6 +53,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -294,7 +295,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
