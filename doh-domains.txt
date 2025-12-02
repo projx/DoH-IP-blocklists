@@ -200,7 +200,6 @@ dns.aquilenet.fr
 dns.ares-taiwan.com
 dns.artikel10.org
 dns.asterimoon.com
-dns.azsopro.net
 dns.b33.space
 dns.b612.me
 dns.baishiyuan.cn
