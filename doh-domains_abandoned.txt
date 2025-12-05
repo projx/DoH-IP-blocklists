@@ -100,10 +100,10 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
+dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
 dns.furrydns.de
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
