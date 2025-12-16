@@ -42,6 +42,7 @@ adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.gbrossi.com.br
 adguard.haneulo.com
+adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
