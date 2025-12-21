@@ -57,6 +57,7 @@ adguard.ruby.ci
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
+adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.twotigers.xyz
 adguard.wirimij.nl
@@ -249,6 +250,7 @@ dns.digitalsize.net
 dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edgy.network
 dns.elemental.software

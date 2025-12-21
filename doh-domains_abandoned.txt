@@ -27,7 +27,6 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
-adguard.sparshbajaj.me
 adguardh.ga
 ag.hostme.co.il
 ag.ssrahul96.xyz
@@ -91,7 +90,6 @@ dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.ellichua.com
