@@ -263,6 +263,7 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -346,5 +347,6 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
