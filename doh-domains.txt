@@ -146,6 +146,7 @@ cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -332,6 +333,7 @@ dns.mikrotikrumahan.my.id
 dns.milkpie.one
 dns.mo0on15.com
 dns.molinero.dev
+dns.moog.sh
 dns.moonssif.com
 dns.mullvad.net
 dns.murgi.de
