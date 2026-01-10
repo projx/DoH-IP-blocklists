@@ -95,6 +95,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
+dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
@@ -308,6 +309,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
