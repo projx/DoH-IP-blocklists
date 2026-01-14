@@ -51,6 +51,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -163,6 +164,7 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns0.eu
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -264,7 +266,6 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -281,6 +282,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kids.5ososea.com
+kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -308,6 +310,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 orpi.privado.ovh
 outdoorchair.us
 pi1.node15.com
@@ -352,3 +355,4 @@ www.zburger.top
 xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
+zero.dns0.eu
