@@ -28,6 +28,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
+adguard.sparshbajaj.me
 adguardh.ga
 ag.hostme.co.il
 ag.ssrahul96.xyz
@@ -293,6 +294,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 minilla.store
 n0.eu
+nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
