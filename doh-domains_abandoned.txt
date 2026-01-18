@@ -265,6 +265,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
+free.shecan.ir
 groupy.ga
 hk.rslvr.eu
 hydroxlab.ru.com
