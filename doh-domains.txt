@@ -379,7 +379,6 @@ dns.schlagheck.berlin
 dns.scuola.org
 dns.sellan.fr
 dns.sev.monster
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -815,7 +814,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
