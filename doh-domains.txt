@@ -438,6 +438,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.zfsystem.tech
 dns.zzuhacker.cn
+dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
