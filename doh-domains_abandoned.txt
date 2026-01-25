@@ -356,4 +356,3 @@ xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
 zero.dns0.eu
-zougloub.eu
