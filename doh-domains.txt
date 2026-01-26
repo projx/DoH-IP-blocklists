@@ -147,7 +147,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -293,6 +292,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
@@ -563,6 +563,7 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
+doh.syshero.org
 doh.technochat.in
 doh.tiar.app
 doh.tiarap.org

@@ -50,6 +50,7 @@ chewbacca.meganerd.nl
 clearweb.woodbridge.club
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -107,7 +108,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -226,7 +226,6 @@ doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
 doh.southam.family
-doh.syshero.org
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
