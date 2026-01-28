@@ -262,6 +262,7 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -329,7 +330,6 @@ t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
