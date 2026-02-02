@@ -293,6 +293,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
@@ -923,7 +924,6 @@ truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tungdnsne.duckdns.org
-tw2.ooroot.com
 tyo01.dnscry.pt
 typaza.com
 ueni.dyndns.org
