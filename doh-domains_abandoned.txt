@@ -261,6 +261,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
+free.shecan.ir
 groupy.ga
 hk.rslvr.eu
 hydroxlab.ru.com
@@ -313,6 +314,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
