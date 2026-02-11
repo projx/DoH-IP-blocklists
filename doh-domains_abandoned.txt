@@ -153,7 +153,6 @@ dns.swin.pro
 dns.theres.one
 dns.tracker.ink
 dns.truong.fi
-dns.tryk.app
 dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
@@ -260,6 +259,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
+free.shecan.ir
 groupy.ga
 hk.rslvr.eu
 hydroxlab.ru.com
