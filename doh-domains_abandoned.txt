@@ -261,7 +261,6 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
 hk.rslvr.eu
-home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -279,7 +278,6 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 local.sufly.top
@@ -328,9 +326,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
@@ -346,6 +342,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.rslvr.eu
+v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
 www.elshad-adgh-dns.ru

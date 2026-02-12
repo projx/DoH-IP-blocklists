@@ -925,6 +925,7 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tyo01.dnscry.pt
 typaza.com
 ueni.dyndns.org
@@ -943,7 +944,6 @@ us1.dns.lavate.ch
 use-application-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
-v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
