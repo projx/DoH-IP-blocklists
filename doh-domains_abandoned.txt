@@ -128,6 +128,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.nas-server.ru
 dns.ndo.dev
 dns.nhtsky.com
 dns.nixnet.xyz
