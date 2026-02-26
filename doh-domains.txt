@@ -281,6 +281,7 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.hanahira.dev
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net

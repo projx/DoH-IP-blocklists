@@ -103,7 +103,6 @@ dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
-dns.haoxuan.xyz
 dns.henek.ovh
 dns.hugo0.moe
 dns.huyhoangit.net
