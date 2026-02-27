@@ -10,6 +10,7 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+addns1.m-it.ro
 adg.rokh.biz
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -264,6 +265,7 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
