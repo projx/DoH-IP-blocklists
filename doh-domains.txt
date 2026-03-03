@@ -144,7 +144,6 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -681,7 +680,6 @@ ibksturm.synology.me
 ibuki.cgnat.net
 ihctw.synology.me
 iij.jp
-ikarosalpha.xyz
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
