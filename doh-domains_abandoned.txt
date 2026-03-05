@@ -92,6 +92,7 @@ dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.ellichua.com
 dns.emeraldonion.org
@@ -159,7 +160,6 @@ dns.truong.fi
 dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
-dns.wang.art
 dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
