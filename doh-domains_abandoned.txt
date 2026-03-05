@@ -159,6 +159,7 @@ dns.truong.fi
 dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
+dns.wang.art
 dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
