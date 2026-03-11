@@ -122,6 +122,7 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
 cleanbrowsing.org
+clearweb.woodbridge.club
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -291,6 +292,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
