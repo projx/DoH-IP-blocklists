@@ -263,6 +263,7 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
 hk.rslvr.eu
+home27.duckdns.org
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -277,6 +278,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
