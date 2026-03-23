@@ -63,6 +63,7 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
+ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ag.brianlee.fun
 ag.ff0x.ca
@@ -826,6 +827,7 @@ puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
