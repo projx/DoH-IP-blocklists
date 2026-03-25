@@ -123,7 +123,6 @@ dns.lashes-brow.ru
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -193,6 +192,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
+doh.dns-ga.de
 doh.dns1.lonet.org
 doh.doh.my.id
 doh.dscloud.me
@@ -318,6 +318,7 @@ pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
+secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
