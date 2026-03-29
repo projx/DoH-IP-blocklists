@@ -26,6 +26,7 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adg.rueiliu.space
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -42,6 +43,7 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
@@ -63,6 +65,7 @@ adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
+ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -261,6 +264,7 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flwagners.com
 dns.flymc.cc
+dns.foximao.cn
 dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
@@ -269,7 +273,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -324,6 +327,7 @@ dns.lobbygod.com
 dns.lsho.top
 dns.lvolland.fr
 dns.maolaohei.xyz
+dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
@@ -615,7 +619,6 @@ emby.rasp.tv
 esel.stusta.mhn.de
 eu1.dns.lavate.ch
 extended.dns.mullvad.net
-externalmobiel.lekdijk.online
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
@@ -942,7 +945,6 @@ v.dnscrypt.uk
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
-vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
