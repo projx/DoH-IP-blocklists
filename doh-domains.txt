@@ -26,7 +26,6 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
 adg.rueiliu.space
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -43,7 +42,6 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
-adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
@@ -65,7 +63,6 @@ adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -313,7 +310,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
@@ -357,6 +353,7 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
@@ -946,7 +943,6 @@ v.dnscrypt.uk
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
-vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
