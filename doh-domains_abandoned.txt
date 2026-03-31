@@ -11,7 +11,6 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
-adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -22,7 +21,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -33,6 +31,7 @@ adguard.oms-ctr.ru
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguardh.ga
+ads.hunga1k47.com
 ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
@@ -60,7 +59,6 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -149,6 +147,7 @@ dns.repressoh.it
 dns.rootlab.top
 dns.seiffert.me
 dns.siry.de
+dns.skrep.eu
 dns.stvsk.ml
 dns.swin.pro
 dns.theres.one
@@ -160,6 +159,7 @@ dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
+dns.xwdmw.xyz
 dns.youni.win
 dns.ypbind.de
 dns1.au.newpangea.de
@@ -259,6 +259,7 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
+externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
@@ -277,6 +278,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+justhost.bedro.cloud
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
@@ -316,7 +318,6 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
