@@ -63,7 +63,6 @@ adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -159,8 +158,6 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
-dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -271,7 +268,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -827,7 +823,6 @@ puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
 query.hdns.io
-quic.lol
 r1bnc.com
 rayneau.fr
 rdns.faelix.net
@@ -865,6 +860,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
