@@ -120,7 +120,6 @@ dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -251,7 +250,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -318,7 +316,6 @@ pope.cnblw.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
