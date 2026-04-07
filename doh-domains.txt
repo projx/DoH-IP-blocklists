@@ -272,6 +272,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -338,7 +339,6 @@ dns.moog.sh
 dns.moonssif.com
 dns.mullvad.net
 dns.murgi.de
-dns.muxinghe.cn
 dns.mzrme.cn
 dns.narl.app
 dns.nas-server.ru
