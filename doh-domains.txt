@@ -684,6 +684,7 @@ ibksturm.synology.me
 ibuki.cgnat.net
 ihctw.synology.me
 iij.jp
+ikarosalpha.xyz
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
