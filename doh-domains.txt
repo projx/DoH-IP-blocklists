@@ -54,7 +54,6 @@ adguard.ruby.ci
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
-adguard.sscw.win
 adguard.twotigers.xyz
 adguard.wirimij.nl
 adguard.zachitect.com
@@ -532,7 +531,6 @@ doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
