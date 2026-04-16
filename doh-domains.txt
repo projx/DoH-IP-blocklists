@@ -292,6 +292,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
@@ -531,6 +532,7 @@ doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
