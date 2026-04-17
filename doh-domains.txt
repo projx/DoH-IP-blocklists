@@ -143,6 +143,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -292,6 +293,7 @@ dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
+dns.infosec.xyz
 dns.internal.hosmatic.com
 dns.islandnet.com
 dns.jinwoo.dev
