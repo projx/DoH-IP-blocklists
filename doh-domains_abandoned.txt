@@ -21,6 +21,7 @@ adguard.beliefanx.cn
 adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.ender.fr
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -266,7 +267,6 @@ family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
