@@ -89,6 +89,7 @@ dns.benpro.fr
 dns.blaze-sk.ru
 dns.bw.i81.ru
 dns.carter.me
+dns.ceai.com.tw
 dns.cfiec.net
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
@@ -107,6 +108,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
