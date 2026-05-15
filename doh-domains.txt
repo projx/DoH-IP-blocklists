@@ -21,6 +21,7 @@ adblock.indianets.net
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
+addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
@@ -639,7 +640,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
