@@ -163,6 +163,7 @@ dns.reckoningslug.name
 dns.repinger.my.id
 dns.repressoh.it
 dns.rootlab.top
+dns.scapetical.com
 dns.seiffert.me
 dns.shimul.me
 dns.siry.de
@@ -363,7 +364,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
