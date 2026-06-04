@@ -123,7 +123,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.ikataruto.com
 dns.indust.me
 dns.indybanipal.com
 dns.interhub.cc
