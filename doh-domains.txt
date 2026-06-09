@@ -511,7 +511,6 @@ doh.ibr.cs.tu-bs.de
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.killtw.im
 doh.kooman.org
 doh.la.ahadns.net
@@ -872,7 +871,6 @@ syd.adfilter.net
 takhtakh.domyah.net
 testaghome.meshkov.info
 testguard.meexx.de
-thanos.pleumkungz.com
 tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl

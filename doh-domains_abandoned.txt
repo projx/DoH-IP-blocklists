@@ -227,6 +227,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -361,6 +362,7 @@ sriedmueadguard.casa
 surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
+thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
