@@ -276,6 +276,7 @@ example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
 fi.doh.dns.snopyta.org
+fra1.eyecay.xyz
 groupy.ga
 guard.sntrk.ru
 himedns.com
