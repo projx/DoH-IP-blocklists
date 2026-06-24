@@ -85,6 +85,7 @@ atl01.dnscry.pt
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -344,7 +345,6 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
-dns.oszx.co
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
@@ -423,6 +423,7 @@ dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
 dns.wibenson.cloud
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -849,6 +850,7 @@ secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
 secure-dns.pleumkungz.com
 secure.anudeep.me
+securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
