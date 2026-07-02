@@ -89,7 +89,6 @@ axaxa.fun
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
-bl.eq.md
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
