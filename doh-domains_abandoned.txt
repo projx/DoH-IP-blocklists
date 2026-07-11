@@ -281,7 +281,6 @@ groupy.ga
 guard.sntrk.ru
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -296,14 +295,12 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
@@ -323,8 +320,10 @@ nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
+ns1.recursive.dnsbycomodo.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
+ns2.recursive.dnsbycomodo.com
 ns3.cx
 ns3.link
 nue2.moderateinfra.net
@@ -342,7 +341,6 @@ pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 privacydns.go6lab.si
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -363,7 +361,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
