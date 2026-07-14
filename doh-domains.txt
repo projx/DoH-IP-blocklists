@@ -68,7 +68,6 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -96,7 +95,6 @@ blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
-bom01.dnscry.pt
 bravedns.com
 c.cicitt.ch
 ca-yyc.doh.sb
@@ -256,7 +254,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
@@ -305,11 +302,9 @@ dns.kosan.moe
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
@@ -494,7 +489,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -585,7 +579,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -617,7 +610,6 @@ fdns1.dismail.de
 fdns2.dismail.de
 fezgate.ovh
 firefox.dns.nextdns.io
-fjr01.dnscry.pt
 fly.io
 fr-dns1.bancuh.com
 fr1.dnswarden.com
