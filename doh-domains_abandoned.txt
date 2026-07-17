@@ -14,6 +14,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -225,7 +226,6 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
-doh.kekew.info
 doh.kutu.my.id
 doh.linuxsec.org
 doh.micronets.in
@@ -272,6 +272,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
