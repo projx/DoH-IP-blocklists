@@ -454,15 +454,14 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -588,7 +587,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -658,7 +656,6 @@ httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 i.233py.com
-iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
 ihctw.synology.me
@@ -760,7 +757,6 @@ odvr.nic.cz
 one.one.one.one
 opencdn.jomodns.com
 opennic.i2pd.xyz
-opennic.tenta.io
 opennic1.eth-services.de
 opennic2.i2pd.xyz
 opera.cloudflare-dns.com
