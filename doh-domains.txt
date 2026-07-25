@@ -69,6 +69,7 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -257,7 +258,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
@@ -635,6 +635,7 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -753,7 +754,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
