@@ -69,7 +69,6 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -309,7 +308,6 @@ dns.l337.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
@@ -338,6 +336,7 @@ dns.njal.la
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -753,9 +752,8 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -883,7 +881,6 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
@@ -937,7 +934,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
