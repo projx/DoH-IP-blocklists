@@ -22,7 +22,6 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-ironhide.ultima-thule.ru
@@ -69,7 +68,6 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -258,7 +256,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
@@ -307,6 +304,7 @@ dns.kosan.moe
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
@@ -460,10 +458,11 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -751,6 +750,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
@@ -935,6 +935,7 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
+xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
