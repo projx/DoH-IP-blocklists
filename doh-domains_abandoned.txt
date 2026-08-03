@@ -14,7 +14,6 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -40,6 +39,7 @@ adguardh.ga
 ads.hunga1k47.com
 ag.hostme.co.il
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -267,7 +267,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -278,7 +277,6 @@ family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 guard.sntrk.ru
 himedns.com
@@ -331,7 +329,6 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
@@ -362,6 +359,7 @@ surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
+tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
@@ -381,12 +379,12 @@ us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
