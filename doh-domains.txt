@@ -208,7 +208,6 @@ dns.chromeina.top
 dns.circl.lu
 dns.clanless.ovh
 dns.clanto.cloud
-dns.cloud88.com.au
 dns.cloudfiction.eu
 dns.cloudflare.com
 dns.cloudtrust.solutions
@@ -306,6 +305,7 @@ dns.kosan.moe
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
@@ -459,7 +459,6 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
@@ -635,7 +634,6 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -753,7 +751,6 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
@@ -880,6 +877,7 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
@@ -933,7 +931,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
