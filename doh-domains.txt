@@ -215,7 +215,6 @@ dns.cloudflare.com
 dns.cloudtrust.solutions
 dns.cmrg.net
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comss.one
 dns.connect.fail
 dns.cryptomize.com
@@ -311,7 +310,6 @@ dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
@@ -466,6 +464,8 @@ dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -500,6 +500,7 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -590,6 +591,7 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
+drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -635,6 +637,7 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -753,6 +756,7 @@ o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -877,7 +881,6 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
