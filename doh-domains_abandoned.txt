@@ -34,7 +34,6 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
-adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
@@ -132,6 +131,7 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.kugoapps.com
+dns.labnekotest.site
 dns.lashes-brow.ru
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -176,6 +176,7 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -190,6 +191,8 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
+dnses.alekberg.net
+dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
@@ -269,6 +272,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -323,6 +327,7 @@ nl.rslvr.eu
 ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
+ns1.dotls.org
 ns1.sc-lezhi.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
@@ -332,7 +337,7 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 odoh-target-noads-se.alekberg.net
-odoh-target-se.alekberg.net
+odoh-target-noads.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 opennic.tenta.io
@@ -364,7 +369,6 @@ surt.ml
 syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
-tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com

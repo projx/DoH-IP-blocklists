@@ -22,6 +22,7 @@ addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
 adg.jnorton.us
+adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -42,6 +43,7 @@ adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.meddy94.de
+adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.piekacz.pl
 adguard.quydang.name.vn
@@ -254,7 +256,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
@@ -454,11 +455,9 @@ dns8.org
 dns9.quad9.net
 dnscache.e-utp.net
 dnsenc.com
-dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
@@ -588,7 +587,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -731,7 +729,6 @@ ns.data.haus
 ns.mtsoln.com
 ns.ral9005.org
 ns0.fdn.fr
-ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
@@ -751,8 +748,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads.alekberg.net
-odoh-target.alekberg.net
+odoh-target-se.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -915,6 +911,7 @@ virga.pp.ua
 vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
