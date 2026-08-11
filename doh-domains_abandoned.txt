@@ -34,6 +34,7 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.wirimij.nl
@@ -42,7 +43,6 @@ ads.hunga1k47.com
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -133,7 +133,10 @@ dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.kugoapps.com
+dns.labnekotest.site
 dns.lashes-brow.ru
+dns.lightmaster.pw
+dns.linkr.ninja
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -177,6 +180,7 @@ dns.wevpn.com
 dns.wugui.zone
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -191,14 +195,10 @@ dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns4.imkvq.com
-dnses.alekberg.net
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -209,7 +209,6 @@ doh.au.ahadns.net
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
-doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -312,6 +311,7 @@ korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
+lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 lux1.nixnet.xyz
@@ -337,8 +337,7 @@ ns3.link
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
-odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
+odoh-target-noads-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 opennic.tenta.io
@@ -390,6 +389,7 @@ us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
