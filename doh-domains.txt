@@ -457,7 +457,6 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
@@ -633,7 +632,6 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -931,7 +929,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-xorbiadns.com
 ychen.cf
 ychen.gq
 your-dns.run
