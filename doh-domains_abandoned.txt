@@ -305,7 +305,6 @@ lon-dns.bitdefender.net
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailkyb.co
-mainframe.dewed.de
 minilla.store
 msr177.com
 n0.eu
