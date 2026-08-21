@@ -165,6 +165,7 @@ dns.swin.pro
 dns.thegoodsource.net
 dns.theres.one
 dns.truong.fi
+dns.vinokurov.tk
 dns.vishalk.com
 dns.wahr.top
 dns.wakgood.net
