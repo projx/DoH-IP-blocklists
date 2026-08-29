@@ -767,7 +767,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 paranoia.mydns.network
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
