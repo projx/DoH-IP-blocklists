@@ -105,6 +105,7 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.cybershell.xyz
 dns.d96.info
+dns.digitale-gesellschaft.ch
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.doh.my.id
@@ -170,6 +171,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.siry.de
 dns.sitdns.com
+dns.spirio.fr
 dns.stvsk.ml
 dns.swin.pro
 dns.thegoodsource.net
@@ -283,7 +285,6 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
