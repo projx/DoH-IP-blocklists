@@ -98,6 +98,7 @@ dns.bw.i81.ru
 dns.carter.me
 dns.ceai.com.tw
 dns.cfiec.net
+dns.charraud.eu
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
