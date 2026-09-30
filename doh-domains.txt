@@ -68,6 +68,7 @@ agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -255,7 +256,6 @@ dns.furrydns.de
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -300,6 +300,7 @@ dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.levonet.sk
 dns.lgprk.com
@@ -520,7 +521,6 @@ doh.libredns.gr
 doh.luigi.nexific.it
 doh.lv
 doh.maskab.com
-doh.max.net.id
 doh.mmmalia.com
 doh.mullvad.net
 doh.nic.lv
@@ -924,8 +924,6 @@ www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
-ychen.cf
-ychen.gq
 your-dns.run
 yovbak.com
 yul01.dnscry.pt
