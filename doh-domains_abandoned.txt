@@ -229,7 +229,6 @@ doh.it.ahadns.net
 doh.iucc.ac.il
 doh.kutu.my.id
 doh.linuxsec.org
-doh.max.net.id
 doh.micronets.in
 doh.morizt.id
 doh.nala.ru
@@ -281,7 +280,6 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -343,6 +341,7 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
