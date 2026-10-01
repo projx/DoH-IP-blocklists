@@ -146,7 +146,6 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
-dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
@@ -767,6 +766,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 paranoia.mydns.network
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -875,6 +875,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt

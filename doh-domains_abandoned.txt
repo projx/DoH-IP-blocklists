@@ -72,6 +72,7 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
+dns-fr-psv1.cloudsides.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-weblock.wevpn.com
@@ -341,7 +342,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -367,7 +367,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
