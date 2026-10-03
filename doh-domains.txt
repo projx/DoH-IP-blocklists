@@ -645,7 +645,6 @@ helios.plan9-dns.com
 himedns.com
 hitian.me
 hk-hkg.doh.sb
-hk2.ooroot.com
 hkg01.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
@@ -875,6 +874,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
