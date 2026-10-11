@@ -58,6 +58,7 @@ bom01.dnscry.pt
 br.servers.legat.ml
 buc-m2.illmods.com
 canadianshield.cira.ca
+cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -175,6 +176,7 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -353,7 +355,6 @@ rdu01.dnscry.pt
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secure-dns.dns-ga.de
 secure.avastdns.com
 secure.onedns.cc
@@ -369,7 +370,6 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
