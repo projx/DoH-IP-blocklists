@@ -154,6 +154,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh
@@ -279,7 +280,6 @@ fra1.eyecay.xyz
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 hk2.ooroot.com
 home.enjoymylife.net
