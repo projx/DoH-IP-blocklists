@@ -177,6 +177,7 @@ dns.theres.one
 dns.truong.fi
 dns.vinokurov.tk
 dns.vishalk.com
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -248,6 +249,7 @@ doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
+doh.powerdns.org
 doh.qis.io
 doh.southam.family
 doh.this.web.id
