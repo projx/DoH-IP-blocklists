@@ -286,7 +286,6 @@ eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
-family.dns.doubleangels.com
 family.puredns.org
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
@@ -296,7 +295,6 @@ groupy.ga
 guard.sntrk.ru
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hydroxlab.ru.com
@@ -346,7 +344,6 @@ ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
 ns3.link
-nsec.arnor.org
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
