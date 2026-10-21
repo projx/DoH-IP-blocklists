@@ -404,7 +404,6 @@ dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vmath.my.id
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -596,7 +595,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -635,7 +633,6 @@ himedns.com
 hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -664,7 +661,6 @@ jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
-jp.tiar.app
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
