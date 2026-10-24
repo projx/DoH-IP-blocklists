@@ -230,6 +230,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
+dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
@@ -402,7 +403,6 @@ dns.us-ashburn-1.oraclecloud.com
 dns.us-phoenix-1.oraclecloud.com
 dns.vinnyp.xyz
 dns.vmath.my.id
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -550,6 +550,7 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
+doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -581,6 +582,7 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 emby.rasp.tv
@@ -592,7 +594,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -631,6 +632,7 @@ himedns.com
 hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
