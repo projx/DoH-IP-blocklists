@@ -230,7 +230,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
@@ -338,7 +337,6 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
