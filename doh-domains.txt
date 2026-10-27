@@ -36,7 +36,6 @@ adguard.ef67daisuki.club
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
-adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -338,6 +337,7 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -592,7 +592,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -631,7 +630,6 @@ himedns.com
 hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
