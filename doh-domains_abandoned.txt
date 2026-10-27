@@ -335,6 +335,7 @@ mainframe.dewed.de
 minilla.store
 msr177.com
 n0.eu
+naw01.dnscry.pt
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
