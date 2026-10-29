@@ -383,6 +383,7 @@ dns.syaifullah.com
 dns.t53.de
 dns.technostriker.com
 dns.telekom.de
+dns.tesem.dog
 dns.thebuckners.org
 dns.therifleman.name
 dns.tls-data.de
