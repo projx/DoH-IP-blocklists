@@ -337,6 +337,7 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -550,7 +551,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh003.280blocker.net
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -631,6 +631,7 @@ himedns.com
 hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home.wriedts.de
 home27.duckdns.org
@@ -757,7 +758,6 @@ pihole.datamatter.co.za
 pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
-pihole4.hoerli.net
 pluton.plan9-dns.com
 pooblet.co.za
 privacy.plumedns.com
@@ -882,6 +882,7 @@ use-application-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v2.xx3210766.live
+vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vpn.technicule.info
