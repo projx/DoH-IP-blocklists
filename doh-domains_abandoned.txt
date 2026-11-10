@@ -31,7 +31,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -112,6 +111,7 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com
@@ -135,7 +135,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
-dns.jucker.engineering
 dns.keke125.com
 dns.lashes-brow.ru
 dns.lightmaster.pw
@@ -157,7 +156,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.privado.ovh

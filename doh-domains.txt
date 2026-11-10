@@ -39,6 +39,7 @@ adguard.ihatemy.live
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -228,7 +229,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
@@ -280,6 +280,7 @@ dns.islandnet.com
 dns.jinwoo.dev
 dns.joey01245.nl
 dns.jstockley.com
+dns.jucker.engineering
 dns.jundev.org
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
@@ -337,6 +338,7 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
