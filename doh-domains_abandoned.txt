@@ -69,7 +69,6 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -295,7 +294,6 @@ gateway.fomichev.cloud
 gclouddns.com
 groupy.ga
 guard.sntrk.ru
-gustamadh.dynv6.net
 hk.rslvr.eu
 hk2.ooroot.com
 home.enjoymylife.net
