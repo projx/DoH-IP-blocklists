@@ -32,7 +32,6 @@ adguard.kss.ovh
 adguard.lista.my.id
 adguard.marto.si
 adguard.mattiafenzi.uk
-adguard.meddy94.de
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
@@ -69,6 +68,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
