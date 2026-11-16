@@ -26,14 +26,13 @@ adguard.dekonix.ru
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
-adguard.jfchenier.ca
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
+adguard.meddy94.de
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
@@ -112,6 +111,7 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.my.id
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.ellichua.com

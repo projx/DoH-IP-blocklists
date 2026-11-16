@@ -36,9 +36,11 @@ adguard.ef67daisuki.club
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
+adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.onlyfriends.info
 adguard.piekacz.pl
@@ -228,7 +230,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
-dns.dyn1.de
 dns.eddi.net
 dns.edison42.dev
 dns.elemental.software
