@@ -333,6 +333,7 @@ ns.lov.host
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns1.dotls.org
+ns1.qquack.org
 ns1.sc-lezhi.com
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
