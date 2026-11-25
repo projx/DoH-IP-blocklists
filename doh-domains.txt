@@ -210,6 +210,7 @@ dns.cmrg.net
 dns.colorfreedom.org
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
@@ -338,7 +339,6 @@ dns.opendns.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pccoach.nl
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pnh.my.id
@@ -380,6 +380,7 @@ dns.strassmair.org
 dns.superstefan.win
 dns.surfshark.com
 dns.svoi.dev
+dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
