@@ -30,7 +30,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -70,7 +69,6 @@ cloud.198.games
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
